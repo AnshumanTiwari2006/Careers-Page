@@ -61,6 +61,16 @@ export default {
 					'accent-foreground': 'hsl(var(--sidebar-accent-foreground))',
 					border: 'hsl(var(--sidebar-border))',
 					ring: 'hsl(var(--sidebar-ring))'
+				},
+				// SynaptX Brand Colors
+				brand: {
+					tan: 'hsl(var(--brand-tan))',
+					orange: 'hsl(var(--brand-orange))',
+					'brown-dark': 'hsl(var(--brand-brown-dark))',
+					'brown-medium': 'hsl(var(--brand-brown-medium))',
+					'brown-light': 'hsl(var(--brand-brown-light))',
+					golden: 'hsl(var(--brand-golden))',
+					'blue-gray': 'hsl(var(--brand-blue-gray))'
 				}
 			},
 			borderRadius: {
