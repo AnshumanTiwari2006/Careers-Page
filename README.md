@@ -74,4 +74,4 @@ Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-trick
 
 ##This project is still in work and may need certain changes.
 ##Just editing cause I am free, lol !
-
+#lol Just adding a README, btw working hard on different folder, will be fun to see.
